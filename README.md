@@ -1,16 +1,38 @@
-## Hi there 👋
+# Mohamed Ramy
 
-<!--
-**boulkaraamohamedramy/boulkaraamohamedramy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Artificial Intelligence and Data Science student at La Cité in Canada.
 
-Here are some ideas to get you started:
+I am passionate about building intelligent systems, structured machine learning workflows, and data-driven decision solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on developing reproducible, well-documented AI projects using professional tools.
+
+---
+
+## Technical Skills
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Machine Learning
+- Git & GitHub
+- MLflow
+- Data Analysis
+
+---
+
+## Featured Project
+
+### MLflow Experiment Tracking System
+Designed and implemented an experiment tracking workflow using MLflow to manage machine learning experiments, monitor model performance and improve reproducibility.
+
+Key contributions:
+- Structured experiment tracking
+- Model version control
+- Performance comparison
+- Organized AI project workflow
+
+---
+
+## Professional Objective
+To contribute to impactful AI and data-driven projects in professional environments while continuously improving technical and communication skills.
