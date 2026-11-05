@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Mohamed Ramy 👋</h1>
 
 <p align="center">
-  <b>AI & Data Science Student · La Cité College, Ottawa · Graduating April 2026</b><br/>
-  Seeking internship or entry-level position in <b>AI / Machine Learning</b> or <b>Business Intelligence</b> · Montréal area
+  <b>AI Graduate (DEC, La Cité College, 2026) · Data Analyst · Montréal</b><br/>
+  Open to junior roles in <b>AI / Machine Learning</b>, <b>NLP / Generative AI</b> and <b>Data</b> · Montréal area
 </p>
 
 <p align="center">
-  <a href="mailto:boulkaraa.mohamedramy@gmail.com">
+  <a href="mailto:boulkaraamohamedramy@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/boulkaraamohamedramy">
@@ -18,11 +18,12 @@
 
 # 🧠 About Me
 
-I'm an Artificial Intelligence & Data Science student passionate about building intelligent, reproducible, and real-world data solutions.
+I'm an AI graduate working as a Data Analyst, and I like building practical, reproducible AI and data solutions for real business problems.
 
-- 🎓 **DEC in Artificial Intelligence** — La Cité College (Graduating April 2026)
+- 🎓 **DEC in Artificial Intelligence** — La Cité College, Ottawa (graduated April 2026)
+- 💼 **Data Analyst** at Orange Planète inc. (since May 2026)
 - 🔍 Focused on **Machine Learning**, **NLP**, **Computer Vision**, **Generative AI**, and **Business Intelligence**
-- 📍 Based in **Ottawa** — open to opportunities in **Montréal**
+- 📍 Based in **Montréal**
 - 🤝 Bilingual: **French & English**
 - 💡 Interested in applying **AI to real-world business problems and digital products**
 
@@ -184,6 +185,6 @@ HTML · CSS · JavaScript
 
 # 🎯 Professional Goal
 
-Looking for an **internship or entry-level role in AI / Machine Learning or Business Intelligence** in the **Montréal area**, where I can contribute to data-driven projects and grow as a professional.
+Looking for a **junior role in AI / Machine Learning, NLP / Generative AI or Data** in the **Montréal area**, where I can contribute to data-driven projects and grow as a professional.
 
 > 💬 Feel free to reach out — I'm open to collaborations, mentorship, and new opportunities!
